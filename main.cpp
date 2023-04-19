@@ -16,7 +16,7 @@ bool isNumberString(const string& s) {
 int main() {
     string ccNumber;
     
-    cout << "This program uses the Luhn Algorigthm to validate a CC number." << endl;
+ 
     cout << "You can enter 'exit' anytime to quit." << endl;
     
     while (true) {
